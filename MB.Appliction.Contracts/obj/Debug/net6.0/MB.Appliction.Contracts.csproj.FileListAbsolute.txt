@@ -1,0 +1,14 @@
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\bin\Debug\net6.0\MB.Appliction.Contracts.deps.json
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\bin\Debug\net6.0\MB.Appliction.Contracts.dll
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\bin\Debug\net6.0\MB.Appliction.Contracts.pdb
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\obj\Debug\net6.0\MB.Appliction.Contracts.csproj.AssemblyReference.cache
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\obj\Debug\net6.0\MB.Appliction.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\obj\Debug\net6.0\MB.Appliction.Contracts.AssemblyInfoInputs.cache
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\obj\Debug\net6.0\MB.Appliction.Contracts.AssemblyInfo.cs
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\obj\Debug\net6.0\MB.Appliction.Contracts.csproj.CoreCompileInputs.cache
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\obj\Debug\net6.0\MB.Appliction.Contracts.dll
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\obj\Debug\net6.0\refint\MB.Appliction.Contracts.dll
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\obj\Debug\net6.0\MB.Appliction.Contracts.pdb
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\obj\Debug\net6.0\ref\MB.Appliction.Contracts.dll
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\bin\Debug\net6.0\MB.Appliction.Contracts.runtimeconfig.json
+D:\WEB\repos\MasterBloger\MB.Appliction.Contracts\obj\Debug\net6.0\MB.Appliction.Contracts.genruntimeconfig.cache

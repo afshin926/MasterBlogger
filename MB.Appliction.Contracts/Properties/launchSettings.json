@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MB.Appliction.Contracts": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:58311;http://localhost:58313"
+    }
+  }
+}

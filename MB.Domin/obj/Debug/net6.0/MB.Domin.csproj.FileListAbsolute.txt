@@ -1,0 +1,14 @@
+D:\WEB\repos\MasterBloger\MB.Domin\bin\Debug\net6.0\MB.Domin.deps.json
+D:\WEB\repos\MasterBloger\MB.Domin\bin\Debug\net6.0\MB.Domin.dll
+D:\WEB\repos\MasterBloger\MB.Domin\bin\Debug\net6.0\MB.Domin.pdb
+D:\WEB\repos\MasterBloger\MB.Domin\obj\Debug\net6.0\MB.Domin.csproj.AssemblyReference.cache
+D:\WEB\repos\MasterBloger\MB.Domin\obj\Debug\net6.0\MB.Domin.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB\repos\MasterBloger\MB.Domin\obj\Debug\net6.0\MB.Domin.AssemblyInfoInputs.cache
+D:\WEB\repos\MasterBloger\MB.Domin\obj\Debug\net6.0\MB.Domin.AssemblyInfo.cs
+D:\WEB\repos\MasterBloger\MB.Domin\obj\Debug\net6.0\MB.Domin.csproj.CoreCompileInputs.cache
+D:\WEB\repos\MasterBloger\MB.Domin\obj\Debug\net6.0\MB.Domin.dll
+D:\WEB\repos\MasterBloger\MB.Domin\obj\Debug\net6.0\refint\MB.Domin.dll
+D:\WEB\repos\MasterBloger\MB.Domin\obj\Debug\net6.0\MB.Domin.pdb
+D:\WEB\repos\MasterBloger\MB.Domin\obj\Debug\net6.0\ref\MB.Domin.dll
+D:\WEB\repos\MasterBloger\MB.Domin\bin\Debug\net6.0\MB.Domin.runtimeconfig.json
+D:\WEB\repos\MasterBloger\MB.Domin\obj\Debug\net6.0\MB.Domin.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MB.Peresentationt.MVCCore-4.props" />
+</Project>

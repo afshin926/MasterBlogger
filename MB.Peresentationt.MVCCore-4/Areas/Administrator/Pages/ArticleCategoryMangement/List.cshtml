@@ -1,0 +1,66 @@
+﻿@page
+@model MB.Peresentationt.MVCCore_4.Areas.Administrator.Pages.ArticleCategoryMangement.ListModel
+@{
+}
+<div class="card">
+    <div class="card-header">
+        <h3 class="float-left">Article Category List</h3>
+        <div class="float-right">
+            <a class="btn btn-success" asp-page="./Create" asp-area="Administrator">Add New</a>
+        </div>
+    </div>
+    <div class="card-body">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Title</th>
+                    <th>Status</th>
+                    <th>CreationDate</th>
+                    <th>Edit Title</th>
+                    <th>Edit Stuts</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.articleCategories)
+                {
+                    
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Title</td>
+                        <td>
+
+                        @if (item.IsDeleted==true)
+                        {
+                            <i class="fa fa-2x fa-close text-danger"></i>
+                        }else
+                        {
+                            <i class="fa fa-2x fa-check text-success"></i>
+                        }
+                        </td>
+                        <th>@item.CreationDate</th>
+                        <td>
+                            <a class="btn btn-warning" asp-page="./Edit" asp-area="Administrator"asp-route-id="@item.Id">Edit</a>
+                            </td>
+                            <td>
+                            @if (item.IsDeleted)
+                            {
+                                <form method="post" asp-page-handler="activate">
+                                    <button class="btn btn-danger">Activate</button>
+                                    <input type="hidden" name="Id" value="@item.Id" />
+                                </form>
+                            }else
+                            {
+                                <form method="post"asp-page-handler="delet">
+                                    <button class="btn btn-danger">Delet</button>
+                                    <input type="hidden"name="Id"value="@item.Id"/> 
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                }
+               
+            </tbody>
+        </table>
+    </div>
+</div>
